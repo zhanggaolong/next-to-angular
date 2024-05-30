@@ -18,7 +18,7 @@
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
             "outputPath": "package",
-            "deployUrl": "https://static-le.shanghaidisneyresort.com/latest/universal-content/",
+            
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": [
